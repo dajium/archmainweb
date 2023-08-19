@@ -423,6 +423,7 @@ button {
 }
 
 .service .titlepage ul li {
+     font-size: large;
      font-weight: bold;
      color: #000000;
 }
